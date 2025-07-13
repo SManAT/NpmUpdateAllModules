@@ -1,6 +1,5 @@
-# Usage
-
+# Usage  
 ´´´
 python updateNodeModules.py
-´´´
-tested right now only on windows ...
+´´´  
+tested right now only on windows ...  
